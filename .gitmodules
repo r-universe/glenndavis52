@@ -28,3 +28,8 @@
 	url = https://github.com/cran/spacesXYZ
 	shallow = true
 	registered = true
+[submodule "zonohedra"]
+	path = zonohedra
+	url = https://github.com/cran/zonohedra
+	shallow = true
+	registered = true
