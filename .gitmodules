@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "colorscience"]
 	path = colorscience
 	url = https://github.com/cran/colorscience
-	shallow = true
-	registered = true
 [submodule "colorSpec"]
 	path = colorSpec
 	url = https://github.com/cran/colorSpec
-	shallow = true
-	registered = true
 [submodule "munsellinterpol"]
 	path = munsellinterpol
 	url = https://github.com/cran/munsellinterpol
-	shallow = true
-	registered = true
 [submodule "spacesRGB"]
 	path = spacesRGB
 	url = https://github.com/cran/spacesRGB
-	shallow = true
-	registered = true
 [submodule "spacesXYZ"]
 	path = spacesXYZ
 	url = https://github.com/cran/spacesXYZ
-	shallow = true
-	registered = true
 [submodule "zonohedra"]
 	path = zonohedra
 	url = https://github.com/cran/zonohedra
-	shallow = true
-	registered = true
