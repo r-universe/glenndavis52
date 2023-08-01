@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "colorscience"]
-	path = colorscience
-	url = https://github.com/cran/colorscience
 [submodule "colorSpec"]
 	path = colorSpec
 	url = https://github.com/cran/colorSpec
+[submodule "colorscience"]
+	path = colorscience
+	url = https://github.com/cran/colorscience
 [submodule "munsellinterpol"]
 	path = munsellinterpol
 	url = https://github.com/cran/munsellinterpol
