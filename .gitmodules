@@ -11,6 +11,9 @@
 [submodule "munsellinterpol"]
 	path = munsellinterpol
 	url = https://github.com/cran/munsellinterpol
+[submodule "polarzonoid"]
+	path = polarzonoid
+	url = https://github.com/cran/polarzonoid
 [submodule "spacesRGB"]
 	path = spacesRGB
 	url = https://github.com/cran/spacesRGB
