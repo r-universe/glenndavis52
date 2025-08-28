@@ -22,4 +22,4 @@
 	url = https://github.com/cran/spacesXYZ
 [submodule "zonohedra"]
 	path = zonohedra
-	url = https://github.com/cran/zonohedra
+	url = https://github.com/glenndavis52/zonohedra
